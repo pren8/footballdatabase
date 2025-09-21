@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nama": "Active"
+  },
+  {
+    "id": 2,
+    "nama": "Retired"
+  },
+  {
+    "id": 3,
+    "nama": "Dead"
+  }
+]

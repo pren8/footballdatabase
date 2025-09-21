@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "singkatan": "GK",
+    "nama": "Goal Keeper",
+    "tipe": 1
+  },
+  {
+    "id": 2,
+    "singkatan": "CB",
+    "nama": "Center Back",
+    "tipe": 2
+  },
+  {
+    "id": 3,
+    "singkatan": "FB",
+    "nama": "Fullback",
+    "tipe": 2
+  },
+  {
+    "id": 4,
+    "singkatan": "FB",
+    "nama": "Fullback",
+    "tipe": 2
+  },
+  {
+    "id": 5,
+    "singkatan": "M",
+    "nama": "Central Defensive Midfielders",
+    "tipe": 3
+  },
+  {
+    "id": 6,
+    "singkatan": "M",
+    "nama": "Central Midfielders",
+    "tipe": 3
+  },
+  {
+    "id": 7,
+    "singkatan": "M",
+    "nama": "Central Midfielder",
+    "tipe": 3
+  },
+  {
+    "id": 8,
+    "singkatan": "M",
+    "nama": "Central Attacking Midfielders",
+    "tipe": 3
+  },
+  {
+    "id": 9,
+    "singkatan": "D",
+    "nama": "Forward",
+    "tipe": 4
+  },
+  {
+    "id": 10,
+    "singkatan": "D",
+    "nama": "Center Forward",
+    "tipe": 4
+  },
+  {
+    "id": 11,
+    "singkatan": "D",
+    "nama": "Forward Attacking Midfielder",
+    "tipe": 4
+  }
+]

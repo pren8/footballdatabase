@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "nama": "Short Passing",
+    "deskripsi": null
+  },
+  {
+    "id": 2,
+    "nama": "Reflect",
+    "deskripsi": null
+  },
+  {
+    "id": 3,
+    "nama": "Anticipacion",
+    "deskripsi": null
+  },
+  {
+    "id": 4,
+    "nama": "Airman",
+    "deskripsi": null
+  },
+  {
+    "id": 5,
+    "nama": "Positioning",
+    "deskripsi": null
+  },
+  {
+    "id": 6,
+    "nama": "Entradas",
+    "deskripsi": null
+  },
+  {
+    "id": 7,
+    "nama": "Marcacion",
+    "deskripsi": null
+  },
+  {
+    "id": 8,
+    "nama": "Recuperador",
+    "deskripsi": null
+  },
+  {
+    "id": 9,
+    "nama": "Remate",
+    "deskripsi": null
+  },
+  {
+    "id": 10,
+    "nama": "Cabeceo",
+    "deskripsi": null
+  },
+  {
+    "id": 11,
+    "nama": "Fuerza",
+    "deskripsi": null
+  },
+  {
+    "id": 12,
+    "nama": "Corpulencia",
+    "deskripsi": null
+  },
+  {
+    "id": 13,
+    "nama": "Velocidad",
+    "deskripsi": null
+  },
+  {
+    "id": 14,
+    "nama": "Agilidad",
+    "deskripsi": null
+  },
+  {
+    "id": 15,
+    "nama": "Creatividad",
+    "deskripsi": null
+  },
+  {
+    "id": 16,
+    "nama": "Pass",
+    "deskripsi": null
+  },
+  {
+    "id": 17,
+    "nama": "Resistencia",
+    "deskripsi": null
+  },
+  {
+    "id": 18,
+    "nama": "Tiros Libres",
+    "deskripsi": null
+  },
+  {
+    "id": 19,
+    "nama": "Regate",
+    "deskripsi": null
+  },
+  {
+    "id": 20,
+    "nama": "Tecnica",
+    "deskripsi": null
+  },
+  {
+    "id": 21,
+    "nama": "Liderazgo",
+    "deskripsi": null
+  },
+  {
+    "id": 22,
+    "nama": "Agresividad",
+    "deskripsi": null
+  },
+  {
+    "id": 23,
+    "nama": "Intelligence",
+    "deskripsi": null
+  },
+  {
+    "id": 24,
+    "nama": "Control",
+    "deskripsi": null
+  },
+  {
+    "id": 25,
+    "nama": "Movilidad",
+    "deskripsi": null
+  }
+]

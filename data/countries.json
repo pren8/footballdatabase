@@ -1,0 +1,2034 @@
+[
+  {
+    "id": 1,
+    "nama": "Afganistán",
+    "kode": "AF",
+    "konfederasi": 5,
+    "rating": 59,
+    "poin": 0
+  },
+  {
+    "id": 2,
+    "nama": "Albania",
+    "kode": "AL",
+    "konfederasi": 3,
+    "rating": 74,
+    "poin": 0
+  },
+  {
+    "id": 3,
+    "nama": "Alemania",
+    "kode": "DE",
+    "konfederasi": 3,
+    "rating": 88,
+    "poin": 0
+  },
+  {
+    "id": 4,
+    "nama": "Argelia",
+    "kode": "DZ",
+    "konfederasi": 4,
+    "rating": 81,
+    "poin": 0
+  },
+  {
+    "id": 5,
+    "nama": "Andorra",
+    "kode": "AD",
+    "konfederasi": 3,
+    "rating": 58,
+    "poin": 0
+  },
+  {
+    "id": 6,
+    "nama": "Angola",
+    "kode": "AO",
+    "konfederasi": 4,
+    "rating": 63,
+    "poin": 0
+  },
+  {
+    "id": 7,
+    "nama": "Anguila",
+    "kode": "AI",
+    "konfederasi": 1,
+    "rating": 50,
+    "poin": 0
+  },
+  {
+    "id": 8,
+    "nama": "Antártida",
+    "kode": "AQ",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 9,
+    "nama": "Antigua y Barbuda",
+    "kode": "AG",
+    "konfederasi": 1,
+    "rating": 63,
+    "poin": 0
+  },
+  {
+    "id": 10,
+    "nama": "Arabia Saudita",
+    "kode": "SA",
+    "konfederasi": 5,
+    "rating": 76,
+    "poin": 0
+  },
+  {
+    "id": 11,
+    "nama": "Argentina",
+    "kode": "AR",
+    "konfederasi": 2,
+    "rating": 91,
+    "poin": 0
+  },
+  {
+    "id": 12,
+    "nama": "Armenia",
+    "kode": "AM",
+    "konfederasi": 3,
+    "rating": 70,
+    "poin": 0
+  },
+  {
+    "id": 13,
+    "nama": "Aruba",
+    "kode": "AW",
+    "konfederasi": 1,
+    "rating": 51,
+    "poin": 0
+  },
+  {
+    "id": 14,
+    "nama": "Australia",
+    "kode": "AU",
+    "konfederasi": 5,
+    "rating": 81,
+    "poin": 0
+  },
+  {
+    "id": 15,
+    "nama": "Austria",
+    "kode": "AT",
+    "konfederasi": 3,
+    "rating": 79,
+    "poin": 0
+  },
+  {
+    "id": 16,
+    "nama": "Azerbaiyán",
+    "kode": "AZ",
+    "konfederasi": 3,
+    "rating": 65,
+    "poin": 0
+  },
+  {
+    "id": 17,
+    "nama": "Bélgica",
+    "kode": "BE",
+    "konfederasi": 3,
+    "rating": 88,
+    "poin": 0
+  },
+  {
+    "id": 18,
+    "nama": "Bahamas",
+    "kode": "BS",
+    "konfederasi": 1,
+    "rating": 50,
+    "poin": 0
+  },
+  {
+    "id": 19,
+    "nama": "Bahrein",
+    "kode": "BH",
+    "konfederasi": 5,
+    "rating": 70,
+    "poin": 0
+  },
+  {
+    "id": 20,
+    "nama": "Bangladesh",
+    "kode": "BD",
+    "konfederasi": 5,
+    "rating": 52,
+    "poin": 0
+  },
+  {
+    "id": 21,
+    "nama": "Barbados",
+    "kode": "BB",
+    "konfederasi": 1,
+    "rating": 56,
+    "poin": 0
+  },
+  {
+    "id": 22,
+    "nama": "Belice",
+    "kode": "BZ",
+    "konfederasi": 1,
+    "rating": 55,
+    "poin": 0
+  },
+  {
+    "id": 23,
+    "nama": "Benín",
+    "kode": "BJ",
+    "konfederasi": 4,
+    "rating": 72,
+    "poin": 0
+  },
+  {
+    "id": 24,
+    "nama": "Bhután",
+    "kode": "BT",
+    "konfederasi": 5,
+    "rating": 52,
+    "poin": 0
+  },
+  {
+    "id": 25,
+    "nama": "Bielorrusia",
+    "kode": "BY",
+    "konfederasi": 3,
+    "rating": 70,
+    "poin": 0
+  },
+  {
+    "id": 26,
+    "nama": "Birmania",
+    "kode": "MM",
+    "konfederasi": 5,
+    "rating": 58,
+    "poin": 0
+  },
+  {
+    "id": 27,
+    "nama": "Bolivia",
+    "kode": "BO",
+    "konfederasi": 2,
+    "rating": 73,
+    "poin": 0
+  },
+  {
+    "id": 28,
+    "nama": "Bosnia-Herzegovina",
+    "kode": "BA",
+    "konfederasi": 3,
+    "rating": 75,
+    "poin": 0
+  },
+  {
+    "id": 29,
+    "nama": "Botsuana",
+    "kode": "BW",
+    "konfederasi": 4,
+    "rating": 59,
+    "poin": 0
+  },
+  {
+    "id": 30,
+    "nama": "Brasil",
+    "kode": "BR",
+    "konfederasi": 2,
+    "rating": 89,
+    "poin": 0
+  },
+  {
+    "id": 31,
+    "nama": "Brunéi",
+    "kode": "BN",
+    "konfederasi": 5,
+    "rating": 52,
+    "poin": 0
+  },
+  {
+    "id": 32,
+    "nama": "Bulgaria",
+    "kode": "BG",
+    "konfederasi": 3,
+    "rating": 73,
+    "poin": 0
+  },
+  {
+    "id": 33,
+    "nama": "Burkina Faso",
+    "kode": "BF",
+    "konfederasi": 4,
+    "rating": 75,
+    "poin": 0
+  },
+  {
+    "id": 34,
+    "nama": "Burundi",
+    "kode": "BI",
+    "konfederasi": 4,
+    "rating": 61,
+    "poin": 0
+  },
+  {
+    "id": 35,
+    "nama": "Cabo Verde",
+    "kode": "CV",
+    "konfederasi": 4,
+    "rating": 73,
+    "poin": 0
+  },
+  {
+    "id": 36,
+    "nama": "Camboya",
+    "kode": "KH",
+    "konfederasi": 5,
+    "rating": 54,
+    "poin": 0
+  },
+  {
+    "id": 37,
+    "nama": "Camerún",
+    "kode": "CM",
+    "konfederasi": 4,
+    "rating": 78,
+    "poin": 0
+  },
+  {
+    "id": 38,
+    "nama": "Canadá",
+    "kode": "CA",
+    "konfederasi": 1,
+    "rating": 78,
+    "poin": 0
+  },
+  {
+    "id": 39,
+    "nama": "Chad",
+    "kode": "TD",
+    "konfederasi": 4,
+    "rating": 53,
+    "poin": 0
+  },
+  {
+    "id": 40,
+    "nama": "Chile",
+    "kode": "CL",
+    "konfederasi": 2,
+    "rating": 82,
+    "poin": 0
+  },
+  {
+    "id": 41,
+    "nama": "China",
+    "kode": "CN",
+    "konfederasi": 5,
+    "rating": 73,
+    "poin": 0
+  },
+  {
+    "id": 42,
+    "nama": "Chipre",
+    "kode": "CY",
+    "konfederasi": 3,
+    "rating": 68,
+    "poin": 0
+  },
+  {
+    "id": 43,
+    "nama": "Ciudad del Vaticano",
+    "kode": "VA",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 44,
+    "nama": "Colombia",
+    "kode": "CO",
+    "konfederasi": 2,
+    "rating": 82,
+    "poin": 0
+  },
+  {
+    "id": 45,
+    "nama": "Comoras",
+    "kode": "KM",
+    "konfederasi": 4,
+    "rating": 62,
+    "poin": 0
+  },
+  {
+    "id": 46,
+    "nama": "República del Congo",
+    "kode": "CG",
+    "konfederasi": 4,
+    "rating": 69,
+    "poin": 0
+  },
+  {
+    "id": 47,
+    "nama": "República Democrática del Cong",
+    "kode": "CD",
+    "konfederasi": 4,
+    "rating": 75,
+    "poin": 0
+  },
+  {
+    "id": 48,
+    "nama": "Corea del Norte",
+    "kode": "KP",
+    "konfederasi": 5,
+    "rating": 67,
+    "poin": 0
+  },
+  {
+    "id": 49,
+    "nama": "Corea del Sur",
+    "kode": "KR",
+    "konfederasi": 5,
+    "rating": 80,
+    "poin": 0
+  },
+  {
+    "id": 50,
+    "nama": "Costa de Marfil",
+    "kode": "CI",
+    "konfederasi": 4,
+    "rating": 75,
+    "poin": 0
+  },
+  {
+    "id": 51,
+    "nama": "Costa Rica",
+    "kode": "CR",
+    "konfederasi": 1,
+    "rating": 79,
+    "poin": 0
+  },
+  {
+    "id": 52,
+    "nama": "Croacia",
+    "kode": "HR",
+    "konfederasi": 3,
+    "rating": 85,
+    "poin": 0
+  },
+  {
+    "id": 53,
+    "nama": "Cuba",
+    "kode": "CU",
+    "konfederasi": 1,
+    "rating": 53,
+    "poin": 0
+  },
+  {
+    "id": 54,
+    "nama": "Curazao",
+    "kode": "CW",
+    "konfederasi": 1,
+    "rating": 73,
+    "poin": 0
+  },
+  {
+    "id": 55,
+    "nama": "Dinamarca",
+    "kode": "DK",
+    "konfederasi": 3,
+    "rating": 85,
+    "poin": 0
+  },
+  {
+    "id": 56,
+    "nama": "Dominica",
+    "kode": "DM",
+    "konfederasi": 1,
+    "rating": 52,
+    "poin": 0
+  },
+  {
+    "id": 57,
+    "nama": "Ecuador",
+    "kode": "EC",
+    "konfederasi": 2,
+    "rating": 79,
+    "poin": 0
+  },
+  {
+    "id": 58,
+    "nama": "Egipto",
+    "kode": "EG",
+    "konfederasi": 4,
+    "rating": 77,
+    "poin": 0
+  },
+  {
+    "id": 59,
+    "nama": "El Salvador",
+    "kode": "SV",
+    "konfederasi": 1,
+    "rating": 74,
+    "poin": 0
+  },
+  {
+    "id": 60,
+    "nama": "Emiratos Árabes Unidos",
+    "kode": "AE",
+    "konfederasi": 5,
+    "rating": 74,
+    "poin": 0
+  },
+  {
+    "id": 61,
+    "nama": "Eritrea",
+    "kode": "ER",
+    "konfederasi": 4,
+    "rating": 50,
+    "poin": 0
+  },
+  {
+    "id": 62,
+    "nama": "Eslovaquia",
+    "kode": "SK",
+    "konfederasi": 3,
+    "rating": 78,
+    "poin": 0
+  },
+  {
+    "id": 63,
+    "nama": "Eslovenia",
+    "kode": "SI",
+    "konfederasi": 3,
+    "rating": 75,
+    "poin": 0
+  },
+  {
+    "id": 64,
+    "nama": "España",
+    "kode": "ES",
+    "konfederasi": 3,
+    "rating": 86,
+    "poin": 0
+  },
+  {
+    "id": 65,
+    "nama": "Estados Unidos",
+    "kode": "US",
+    "konfederasi": 1,
+    "rating": 83,
+    "poin": 0
+  },
+  {
+    "id": 66,
+    "nama": "Estonia",
+    "kode": "EE",
+    "konfederasi": 3,
+    "rating": 67,
+    "poin": 0
+  },
+  {
+    "id": 67,
+    "nama": "Etiopía",
+    "kode": "ET",
+    "konfederasi": 4,
+    "rating": 61,
+    "poin": 0
+  },
+  {
+    "id": 68,
+    "nama": "Filipinas",
+    "kode": "PH",
+    "konfederasi": 5,
+    "rating": 63,
+    "poin": 0
+  },
+  {
+    "id": 69,
+    "nama": "Finlandia",
+    "kode": "FI",
+    "konfederasi": 3,
+    "rating": 75,
+    "poin": 0
+  },
+  {
+    "id": 70,
+    "nama": "Fiyi",
+    "kode": "FJ",
+    "konfederasi": 6,
+    "rating": 56,
+    "poin": 0
+  },
+  {
+    "id": 71,
+    "nama": "Francia",
+    "kode": "FR",
+    "konfederasi": 3,
+    "rating": 90,
+    "poin": 0
+  },
+  {
+    "id": 72,
+    "nama": "Gabón",
+    "kode": "GA",
+    "konfederasi": 4,
+    "rating": 71,
+    "poin": 0
+  },
+  {
+    "id": 73,
+    "nama": "Gambia",
+    "kode": "GM",
+    "konfederasi": 4,
+    "rating": 59,
+    "poin": 0
+  },
+  {
+    "id": 74,
+    "nama": "Georgia",
+    "kode": "GE",
+    "konfederasi": 3,
+    "rating": 72,
+    "poin": 0
+  },
+  {
+    "id": 75,
+    "nama": "Ghana",
+    "kode": "GH",
+    "konfederasi": 4,
+    "rating": 76,
+    "poin": 0
+  },
+  {
+    "id": 76,
+    "nama": "Gibraltar",
+    "kode": "GI",
+    "konfederasi": 3,
+    "rating": 50,
+    "poin": 0
+  },
+  {
+    "id": 77,
+    "nama": "Granada",
+    "kode": "GD",
+    "konfederasi": 1,
+    "rating": 55,
+    "poin": 0
+  },
+  {
+    "id": 78,
+    "nama": "Grecia",
+    "kode": "GR",
+    "konfederasi": 3,
+    "rating": 76,
+    "poin": 0
+  },
+  {
+    "id": 79,
+    "nama": "Groenlandia",
+    "kode": "GL",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 80,
+    "nama": "Guadalupe",
+    "kode": "GP",
+    "konfederasi": 1,
+    "rating": 40,
+    "poin": 0
+  },
+  {
+    "id": 81,
+    "nama": "Guam",
+    "kode": "GU",
+    "konfederasi": 6,
+    "rating": 50,
+    "poin": 0
+  },
+  {
+    "id": 82,
+    "nama": "Guatemala",
+    "kode": "GT",
+    "konfederasi": 1,
+    "rating": 64,
+    "poin": 0
+  },
+  {
+    "id": 83,
+    "nama": "Guayana Francesa",
+    "kode": "GF",
+    "konfederasi": 1,
+    "rating": 40,
+    "poin": 0
+  },
+  {
+    "id": 84,
+    "nama": "Guernsey",
+    "kode": "GG",
+    "konfederasi": 3,
+    "rating": 40,
+    "poin": 0
+  },
+  {
+    "id": 85,
+    "nama": "Guinea",
+    "kode": "GN",
+    "konfederasi": 4,
+    "rating": 72,
+    "poin": 0
+  },
+  {
+    "id": 86,
+    "nama": "Guinea Ecuatorial",
+    "kode": "GQ",
+    "konfederasi": 4,
+    "rating": 66,
+    "poin": 0
+  },
+  {
+    "id": 87,
+    "nama": "Guinea Bissau",
+    "kode": "GW",
+    "konfederasi": 4,
+    "rating": 67,
+    "poin": 0
+  },
+  {
+    "id": 88,
+    "nama": "Guyana",
+    "kode": "GY",
+    "konfederasi": 1,
+    "rating": 53,
+    "poin": 0
+  },
+  {
+    "id": 89,
+    "nama": "Haití",
+    "kode": "HT",
+    "konfederasi": 1,
+    "rating": 71,
+    "poin": 0
+  },
+  {
+    "id": 90,
+    "nama": "Honduras",
+    "kode": "HN",
+    "konfederasi": 1,
+    "rating": 73,
+    "poin": 0
+  },
+  {
+    "id": 91,
+    "nama": "Hong kong",
+    "kode": "HK",
+    "konfederasi": 5,
+    "rating": 59,
+    "poin": 0
+  },
+  {
+    "id": 92,
+    "nama": "Hungría",
+    "kode": "HU",
+    "konfederasi": 3,
+    "rating": 77,
+    "poin": 0
+  },
+  {
+    "id": 93,
+    "nama": "India",
+    "kode": "IN",
+    "konfederasi": 5,
+    "rating": 68,
+    "poin": 0
+  },
+  {
+    "id": 94,
+    "nama": "Indonesia",
+    "kode": "ID",
+    "konfederasi": 5,
+    "rating": 56,
+    "poin": 0
+  },
+  {
+    "id": 95,
+    "nama": "Irán",
+    "kode": "IR",
+    "konfederasi": 5,
+    "rating": 82,
+    "poin": 0
+  },
+  {
+    "id": 96,
+    "nama": "Irak",
+    "kode": "IQ",
+    "konfederasi": 5,
+    "rating": 73,
+    "poin": 0
+  },
+  {
+    "id": 97,
+    "nama": "Irlanda",
+    "kode": "IE",
+    "konfederasi": 3,
+    "rating": 77,
+    "poin": 0
+  },
+  {
+    "id": 98,
+    "nama": "Isla Bouvet",
+    "kode": "BV",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 99,
+    "nama": "Isla de Man",
+    "kode": "IM",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 100,
+    "nama": "Isla de Navidad",
+    "kode": "CX",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 101,
+    "nama": "Isla Norfolk",
+    "kode": "NF",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 102,
+    "nama": "Islandia",
+    "kode": "IS",
+    "konfederasi": 3,
+    "rating": 75,
+    "poin": 0
+  },
+  {
+    "id": 103,
+    "nama": "Islas Bermudas",
+    "kode": "BM",
+    "konfederasi": 1,
+    "rating": 56,
+    "poin": 0
+  },
+  {
+    "id": 104,
+    "nama": "Islas Caimán",
+    "kode": "KY",
+    "konfederasi": 1,
+    "rating": 51,
+    "poin": 0
+  },
+  {
+    "id": 105,
+    "nama": "Islas Cocos (Keeling)",
+    "kode": "CC",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 106,
+    "nama": "Islas Cook",
+    "kode": "CK",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 107,
+    "nama": "Islas de Åland",
+    "kode": "AX",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 108,
+    "nama": "Islas Feroe",
+    "kode": "FO",
+    "konfederasi": 3,
+    "rating": 64,
+    "poin": 0
+  },
+  {
+    "id": 109,
+    "nama": "Islas Georgias del Sur y Sandw",
+    "kode": "GS",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 110,
+    "nama": "Islas Heard y McDonald",
+    "kode": "HM",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 111,
+    "nama": "Islas Maldivas",
+    "kode": "MV",
+    "konfederasi": 5,
+    "rating": 57,
+    "poin": 0
+  },
+  {
+    "id": 112,
+    "nama": "Islas Malvinas",
+    "kode": "FK",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 113,
+    "nama": "Islas Marianas del Norte",
+    "kode": "MP",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 114,
+    "nama": "Islas Marshall",
+    "kode": "MH",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 115,
+    "nama": "Islas Pitcairn",
+    "kode": "PN",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 116,
+    "nama": "Islas Salomón",
+    "kode": "SB",
+    "konfederasi": 5,
+    "rating": 60,
+    "poin": 0
+  },
+  {
+    "id": 117,
+    "nama": "Islas Turcas y Caicos",
+    "kode": "TC",
+    "konfederasi": 1,
+    "rating": 50,
+    "poin": 0
+  },
+  {
+    "id": 118,
+    "nama": "Islas Ultramarinas Menores de ",
+    "kode": "UM",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 119,
+    "nama": "Islas Vírgenes Británicas",
+    "kode": "VG",
+    "konfederasi": 1,
+    "rating": 50,
+    "poin": 0
+  },
+  {
+    "id": 120,
+    "nama": "Islas Vírgenes de los Estados ",
+    "kode": "VI",
+    "konfederasi": 1,
+    "rating": 50,
+    "poin": 0
+  },
+  {
+    "id": 121,
+    "nama": "Israel",
+    "kode": "IL",
+    "konfederasi": 3,
+    "rating": 73,
+    "poin": 0
+  },
+  {
+    "id": 122,
+    "nama": "Italia",
+    "kode": "IT",
+    "konfederasi": 3,
+    "rating": 85,
+    "poin": 0
+  },
+  {
+    "id": 123,
+    "nama": "Jamaica",
+    "kode": "JM",
+    "konfederasi": 1,
+    "rating": 70,
+    "poin": 0
+  },
+  {
+    "id": 124,
+    "nama": "Japón",
+    "kode": "JP",
+    "konfederasi": 5,
+    "rating": 83,
+    "poin": 0
+  },
+  {
+    "id": 125,
+    "nama": "Jersey",
+    "kode": "JE",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 126,
+    "nama": "Jordania",
+    "kode": "JO",
+    "konfederasi": 5,
+    "rating": 55,
+    "poin": 0
+  },
+  {
+    "id": 127,
+    "nama": "Kazajistán",
+    "kode": "KZ",
+    "konfederasi": 3,
+    "rating": 65,
+    "poin": 0
+  },
+  {
+    "id": 128,
+    "nama": "Kenia",
+    "kode": "KE",
+    "konfederasi": 4,
+    "rating": 68,
+    "poin": 0
+  },
+  {
+    "id": 129,
+    "nama": "Kirguistán",
+    "kode": "KG",
+    "konfederasi": 5,
+    "rating": 69,
+    "poin": 0
+  },
+  {
+    "id": 130,
+    "nama": "Kiribati",
+    "kode": "KI",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 131,
+    "nama": "Kuwait",
+    "kode": "KW",
+    "konfederasi": 5,
+    "rating": 60,
+    "poin": 0
+  },
+  {
+    "id": 132,
+    "nama": "Líbano",
+    "kode": "LB",
+    "konfederasi": 5,
+    "rating": 70,
+    "poin": 0
+  },
+  {
+    "id": 133,
+    "nama": "Laos",
+    "kode": "LA",
+    "konfederasi": 5,
+    "rating": 52,
+    "poin": 0
+  },
+  {
+    "id": 134,
+    "nama": "Lesoto",
+    "kode": "LS",
+    "konfederasi": 4,
+    "rating": 60,
+    "poin": 0
+  },
+  {
+    "id": 135,
+    "nama": "Letonia",
+    "kode": "LV",
+    "konfederasi": 3,
+    "rating": 62,
+    "poin": 0
+  },
+  {
+    "id": 136,
+    "nama": "Liberia",
+    "kode": "LR",
+    "konfederasi": 4,
+    "rating": 60,
+    "poin": 0
+  },
+  {
+    "id": 137,
+    "nama": "Libia",
+    "kode": "LY",
+    "konfederasi": 4,
+    "rating": 65,
+    "poin": 0
+  },
+  {
+    "id": 138,
+    "nama": "Liechtenstein",
+    "kode": "LI",
+    "konfederasi": 3,
+    "rating": 51,
+    "poin": 0
+  },
+  {
+    "id": 139,
+    "nama": "Lituania",
+    "kode": "LT",
+    "konfederasi": 3,
+    "rating": 61,
+    "poin": 0
+  },
+  {
+    "id": 140,
+    "nama": "Luxemburgo",
+    "kode": "LU",
+    "konfederasi": 3,
+    "rating": 70,
+    "poin": 0
+  },
+  {
+    "id": 141,
+    "nama": "México",
+    "kode": "MX",
+    "konfederasi": 1,
+    "rating": 81,
+    "poin": 0
+  },
+  {
+    "id": 142,
+    "nama": "Mónaco",
+    "kode": "MC",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 143,
+    "nama": "Macao",
+    "kode": "MO",
+    "konfederasi": 5,
+    "rating": 52,
+    "poin": 0
+  },
+  {
+    "id": 144,
+    "nama": "Macedonia",
+    "kode": "MK",
+    "konfederasi": 3,
+    "rating": 74,
+    "poin": 0
+  },
+  {
+    "id": 145,
+    "nama": "Madagascar",
+    "kode": "MG",
+    "konfederasi": 4,
+    "rating": 68,
+    "poin": 0
+  },
+  {
+    "id": 146,
+    "nama": "Malasia",
+    "kode": "MY",
+    "konfederasi": 5,
+    "rating": 58,
+    "poin": 0
+  },
+  {
+    "id": 147,
+    "nama": "Malawi",
+    "kode": "MW",
+    "konfederasi": 4,
+    "rating": 63,
+    "poin": 0
+  },
+  {
+    "id": 148,
+    "nama": "Mali",
+    "kode": "ML",
+    "konfederasi": 4,
+    "rating": 76,
+    "poin": 0
+  },
+  {
+    "id": 149,
+    "nama": "Malta",
+    "kode": "MT",
+    "konfederasi": 3,
+    "rating": 54,
+    "poin": 0
+  },
+  {
+    "id": 150,
+    "nama": "Marruecos",
+    "kode": "MA",
+    "konfederasi": 4,
+    "rating": 81,
+    "poin": 0
+  },
+  {
+    "id": 151,
+    "nama": "Martinica",
+    "kode": "MQ",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 152,
+    "nama": "Mauricio",
+    "kode": "MU",
+    "konfederasi": 4,
+    "rating": 54,
+    "poin": 0
+  },
+  {
+    "id": 153,
+    "nama": "Mauritania",
+    "kode": "MR",
+    "konfederasi": 4,
+    "rating": 68,
+    "poin": 0
+  },
+  {
+    "id": 154,
+    "nama": "Mayotte",
+    "kode": "YT",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 155,
+    "nama": "Micronesia",
+    "kode": "FM",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 156,
+    "nama": "Moldavia",
+    "kode": "MD",
+    "konfederasi": 3,
+    "rating": 52,
+    "poin": 0
+  },
+  {
+    "id": 157,
+    "nama": "Mongolia",
+    "kode": "MN",
+    "konfederasi": 5,
+    "rating": 52,
+    "poin": 0
+  },
+  {
+    "id": 158,
+    "nama": "Montenegro",
+    "kode": "ME",
+    "konfederasi": 3,
+    "rating": 73,
+    "poin": 0
+  },
+  {
+    "id": 159,
+    "nama": "Montserrat",
+    "kode": "MS",
+    "konfederasi": 1,
+    "rating": 53,
+    "poin": 0
+  },
+  {
+    "id": 160,
+    "nama": "Mozambique",
+    "kode": "MZ",
+    "konfederasi": 4,
+    "rating": 65,
+    "poin": 0
+  },
+  {
+    "id": 161,
+    "nama": "Namibia",
+    "kode": "NA",
+    "konfederasi": 4,
+    "rating": 66,
+    "poin": 0
+  },
+  {
+    "id": 162,
+    "nama": "Nauru",
+    "kode": "NR",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 163,
+    "nama": "Nepal",
+    "kode": "NP",
+    "konfederasi": 5,
+    "rating": 55,
+    "poin": 0
+  },
+  {
+    "id": 164,
+    "nama": "Nicaragua",
+    "kode": "NI",
+    "konfederasi": 1,
+    "rating": 60,
+    "poin": 0
+  },
+  {
+    "id": 165,
+    "nama": "Niger",
+    "kode": "NE",
+    "konfederasi": 4,
+    "rating": 66,
+    "poin": 0
+  },
+  {
+    "id": 166,
+    "nama": "Nigeria",
+    "kode": "NG",
+    "konfederasi": 4,
+    "rating": 79,
+    "poin": 0
+  },
+  {
+    "id": 167,
+    "nama": "Niue",
+    "kode": "NU",
+    "konfederasi": 6,
+    "rating": 35,
+    "poin": 0
+  },
+  {
+    "id": 168,
+    "nama": "Noruega",
+    "kode": "NO",
+    "konfederasi": 3,
+    "rating": 78,
+    "poin": 0
+  },
+  {
+    "id": 169,
+    "nama": "Nueva Caledonia",
+    "kode": "NC",
+    "konfederasi": 6,
+    "rating": 58,
+    "poin": 0
+  },
+  {
+    "id": 170,
+    "nama": "Nueva Zelanda",
+    "kode": "NZ",
+    "konfederasi": 6,
+    "rating": 67,
+    "poin": 0
+  },
+  {
+    "id": 171,
+    "nama": "Omán",
+    "kode": "OM",
+    "konfederasi": 5,
+    "rating": 73,
+    "poin": 0
+  },
+  {
+    "id": 172,
+    "nama": "Países Bajos",
+    "kode": "NL",
+    "konfederasi": 3,
+    "rating": 86,
+    "poin": 0
+  },
+  {
+    "id": 173,
+    "nama": "Pakistán",
+    "kode": "PK",
+    "konfederasi": 5,
+    "rating": 51,
+    "poin": 0
+  },
+  {
+    "id": 174,
+    "nama": "Palau",
+    "kode": "PW",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 175,
+    "nama": "Palestina",
+    "kode": "PS",
+    "konfederasi": 5,
+    "rating": 69,
+    "poin": 0
+  },
+  {
+    "id": 176,
+    "nama": "Panamá",
+    "kode": "PA",
+    "konfederasi": 1,
+    "rating": 72,
+    "poin": 0
+  },
+  {
+    "id": 177,
+    "nama": "Papúa Nueva Guinea",
+    "kode": "PG",
+    "konfederasi": 6,
+    "rating": 55,
+    "poin": 0
+  },
+  {
+    "id": 178,
+    "nama": "Paraguay",
+    "kode": "PY",
+    "konfederasi": 2,
+    "rating": 78,
+    "poin": 0
+  },
+  {
+    "id": 179,
+    "nama": "Perú",
+    "kode": "PE",
+    "konfederasi": 2,
+    "rating": 79,
+    "poin": 0
+  },
+  {
+    "id": 180,
+    "nama": "Polinesia Francesa",
+    "kode": "PF",
+    "konfederasi": 6,
+    "rating": 57,
+    "poin": 0
+  },
+  {
+    "id": 181,
+    "nama": "Polonia",
+    "kode": "PL",
+    "konfederasi": 3,
+    "rating": 83,
+    "poin": 0
+  },
+  {
+    "id": 182,
+    "nama": "Portugal",
+    "kode": "PT",
+    "konfederasi": 3,
+    "rating": 87,
+    "poin": 0
+  },
+  {
+    "id": 183,
+    "nama": "Puerto Rico",
+    "kode": "PR",
+    "konfederasi": 1,
+    "rating": 54,
+    "poin": 0
+  },
+  {
+    "id": 184,
+    "nama": "Qatar",
+    "kode": "QA",
+    "konfederasi": 5,
+    "rating": 77,
+    "poin": 0
+  },
+  {
+    "id": 185,
+    "nama": "Inglaterra",
+    "kode": "GB",
+    "konfederasi": 3,
+    "rating": 89,
+    "poin": 0
+  },
+  {
+    "id": 186,
+    "nama": "República Centroafricana",
+    "kode": "CF",
+    "konfederasi": 4,
+    "rating": 63,
+    "poin": 0
+  },
+  {
+    "id": 187,
+    "nama": "República Checa",
+    "kode": "CZ",
+    "konfederasi": 3,
+    "rating": 81,
+    "poin": 0
+  },
+  {
+    "id": 188,
+    "nama": "República Dominicana",
+    "kode": "DO",
+    "konfederasi": 1,
+    "rating": 57,
+    "poin": 0
+  },
+  {
+    "id": 189,
+    "nama": "República de Sudán del Sur",
+    "kode": "SS",
+    "konfederasi": 4,
+    "rating": 55,
+    "poin": 0
+  },
+  {
+    "id": 190,
+    "nama": "Reunión",
+    "kode": "RE",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 191,
+    "nama": "Ruanda",
+    "kode": "RW",
+    "konfederasi": 4,
+    "rating": 62,
+    "poin": 0
+  },
+  {
+    "id": 192,
+    "nama": "Rumanía",
+    "kode": "RO",
+    "konfederasi": 3,
+    "rating": 78,
+    "poin": 0
+  },
+  {
+    "id": 193,
+    "nama": "Rusia",
+    "kode": "RU",
+    "konfederasi": 3,
+    "rating": 80,
+    "poin": 0
+  },
+  {
+    "id": 194,
+    "nama": "Sahara Occidental",
+    "kode": "EH",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 195,
+    "nama": "Samoa",
+    "kode": "WS",
+    "konfederasi": 6,
+    "rating": 51,
+    "poin": 0
+  },
+  {
+    "id": 196,
+    "nama": "Samoa Americana",
+    "kode": "AS",
+    "konfederasi": 6,
+    "rating": 52,
+    "poin": 0
+  },
+  {
+    "id": 197,
+    "nama": "San Bartolomé",
+    "kode": "BL",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 198,
+    "nama": "San Cristóbal y Nieves",
+    "kode": "KN",
+    "konfederasi": 1,
+    "rating": 61,
+    "poin": 0
+  },
+  {
+    "id": 199,
+    "nama": "San Marino",
+    "kode": "SM",
+    "konfederasi": 3,
+    "rating": 50,
+    "poin": 0
+  },
+  {
+    "id": 200,
+    "nama": "San Martín (Francia)",
+    "kode": "MF",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 201,
+    "nama": "San Pedro y Miquelón",
+    "kode": "PM",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 202,
+    "nama": "San Vicente y las Granadinas",
+    "kode": "VC",
+    "konfederasi": 1,
+    "rating": 54,
+    "poin": 0
+  },
+  {
+    "id": 203,
+    "nama": "Santa Elena",
+    "kode": "SH",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 204,
+    "nama": "Santa Lucía",
+    "kode": "LC",
+    "konfederasi": 1,
+    "rating": 53,
+    "poin": 0
+  },
+  {
+    "id": 205,
+    "nama": "Santo Tomé y Príncipe",
+    "kode": "ST",
+    "konfederasi": 1,
+    "rating": 52,
+    "poin": 0
+  },
+  {
+    "id": 206,
+    "nama": "Senegal",
+    "kode": "SN",
+    "konfederasi": 4,
+    "rating": 82,
+    "poin": 0
+  },
+  {
+    "id": 207,
+    "nama": "Serbia",
+    "kode": "RS",
+    "konfederasi": 3,
+    "rating": 80,
+    "poin": 0
+  },
+  {
+    "id": 208,
+    "nama": "Seychelles",
+    "kode": "SC",
+    "konfederasi": 4,
+    "rating": 51,
+    "poin": 0
+  },
+  {
+    "id": 209,
+    "nama": "Sierra Leona",
+    "kode": "SL",
+    "konfederasi": 4,
+    "rating": 67,
+    "poin": 0
+  },
+  {
+    "id": 210,
+    "nama": "Singapur",
+    "kode": "SG",
+    "konfederasi": 5,
+    "rating": 57,
+    "poin": 0
+  },
+  {
+    "id": 211,
+    "nama": "Sint Maarten",
+    "kode": "SX",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 212,
+    "nama": "Siria",
+    "kode": "SY",
+    "konfederasi": 5,
+    "rating": 71,
+    "poin": 0
+  },
+  {
+    "id": 213,
+    "nama": "Somalia",
+    "kode": "SO",
+    "konfederasi": 4,
+    "rating": 51,
+    "poin": 0
+  },
+  {
+    "id": 214,
+    "nama": "Sri lanka",
+    "kode": "LK",
+    "konfederasi": 5,
+    "rating": 50,
+    "poin": 0
+  },
+  {
+    "id": 215,
+    "nama": "Sudáfrica",
+    "kode": "ZA",
+    "konfederasi": 4,
+    "rating": 74,
+    "poin": 0
+  },
+  {
+    "id": 216,
+    "nama": "Sudán",
+    "kode": "SD",
+    "konfederasi": 4,
+    "rating": 64,
+    "poin": 0
+  },
+  {
+    "id": 217,
+    "nama": "Suecia",
+    "kode": "SE",
+    "konfederasi": 3,
+    "rating": 84,
+    "poin": 0
+  },
+  {
+    "id": 218,
+    "nama": "Suiza",
+    "kode": "CH",
+    "konfederasi": 3,
+    "rating": 83,
+    "poin": 0
+  },
+  {
+    "id": 219,
+    "nama": "Surinám",
+    "kode": "SR",
+    "konfederasi": 1,
+    "rating": 61,
+    "poin": 0
+  },
+  {
+    "id": 220,
+    "nama": "Svalbard y Jan Mayen",
+    "kode": "SJ",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 221,
+    "nama": "Suazilandia",
+    "kode": "SZ",
+    "konfederasi": 4,
+    "rating": 59,
+    "poin": 0
+  },
+  {
+    "id": 222,
+    "nama": "Tayikistán",
+    "kode": "TJ",
+    "konfederasi": 5,
+    "rating": 65,
+    "poin": 0
+  },
+  {
+    "id": 223,
+    "nama": "Tailandia",
+    "kode": "TH",
+    "konfederasi": 5,
+    "rating": 66,
+    "poin": 0
+  },
+  {
+    "id": 224,
+    "nama": "Taiwán",
+    "kode": "TW",
+    "konfederasi": 5,
+    "rating": 57,
+    "poin": 0
+  },
+  {
+    "id": 225,
+    "nama": "Tanzania",
+    "kode": "TZ",
+    "konfederasi": 4,
+    "rating": 62,
+    "poin": 0
+  },
+  {
+    "id": 226,
+    "nama": "Territorio Británico del Territorio Británico del Océano Índico",
+    "kode": "IO",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 227,
+    "nama": "Tierras Australes y Antárticas Francesas",
+    "kode": "TF",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 228,
+    "nama": "Timor Oriental",
+    "kode": "TL",
+    "konfederasi": 6,
+    "rating": 51,
+    "poin": 0
+  },
+  {
+    "id": 229,
+    "nama": "Togo",
+    "kode": "TG",
+    "konfederasi": 4,
+    "rating": 64,
+    "poin": 0
+  },
+  {
+    "id": 230,
+    "nama": "Tokelau",
+    "kode": "TK",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 231,
+    "nama": "Tonga",
+    "kode": "TO",
+    "konfederasi": 6,
+    "rating": 51,
+    "poin": 0
+  },
+  {
+    "id": 232,
+    "nama": "Trinidad y Tobago",
+    "kode": "TT",
+    "konfederasi": 1,
+    "rating": 69,
+    "poin": 0
+  },
+  {
+    "id": 233,
+    "nama": "Tunez",
+    "kode": "TN",
+    "konfederasi": 4,
+    "rating": 81,
+    "poin": 0
+  },
+  {
+    "id": 234,
+    "nama": "Turkmenistán",
+    "kode": "TM",
+    "konfederasi": 5,
+    "rating": 62,
+    "poin": 0
+  },
+  {
+    "id": 235,
+    "nama": "Turquía",
+    "kode": "TR",
+    "konfederasi": 3,
+    "rating": 79,
+    "poin": 0
+  },
+  {
+    "id": 236,
+    "nama": "Tuvalu",
+    "kode": "TV",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 237,
+    "nama": "Ucrania",
+    "kode": "UA",
+    "konfederasi": 3,
+    "rating": 79,
+    "poin": 0
+  },
+  {
+    "id": 238,
+    "nama": "Uganda",
+    "kode": "UG",
+    "konfederasi": 4,
+    "rating": 72,
+    "poin": 0
+  },
+  {
+    "id": 239,
+    "nama": "Uruguay",
+    "kode": "UY",
+    "konfederasi": 2,
+    "rating": 84,
+    "poin": 0
+  },
+  {
+    "id": 240,
+    "nama": "Uzbekistán",
+    "kode": "UZ",
+    "konfederasi": 5,
+    "rating": 72,
+    "poin": 0
+  },
+  {
+    "id": 241,
+    "nama": "Vanuatu",
+    "kode": "VU",
+    "konfederasi": 6,
+    "rating": 56,
+    "poin": 0
+  },
+  {
+    "id": 242,
+    "nama": "Venezuela",
+    "kode": "VE",
+    "konfederasi": 2,
+    "rating": 75,
+    "poin": 0
+  },
+  {
+    "id": 243,
+    "nama": "Vietnam",
+    "kode": "VN",
+    "konfederasi": 5,
+    "rating": 69,
+    "poin": 0
+  },
+  {
+    "id": 244,
+    "nama": "Wallis y Futuna",
+    "kode": "WF",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 245,
+    "nama": "Yemen",
+    "kode": "YE",
+    "konfederasi": 5,
+    "rating": 58,
+    "poin": 0
+  },
+  {
+    "id": 246,
+    "nama": "Yibuti",
+    "kode": "DJ",
+    "konfederasi": 4,
+    "rating": 51,
+    "poin": 0
+  },
+  {
+    "id": 247,
+    "nama": "Zambia",
+    "kode": "ZM",
+    "konfederasi": 4,
+    "rating": 71,
+    "poin": 0
+  },
+  {
+    "id": 248,
+    "nama": "Zimbabwe",
+    "kode": "ZW",
+    "konfederasi": 4,
+    "rating": 64,
+    "poin": 0
+  },
+  {
+    "id": 249,
+    "nama": "Escocia",
+    "kode": "GB",
+    "konfederasi": 3,
+    "rating": 79,
+    "poin": 0
+  },
+  {
+    "id": 250,
+    "nama": "Gales",
+    "kode": "GB",
+    "konfederasi": 3,
+    "rating": 80,
+    "poin": 0
+  },
+  {
+    "id": 251,
+    "nama": "Irlanda del Norte",
+    "kode": "GB",
+    "konfederasi": 3,
+    "rating": 76,
+    "poin": 0
+  },
+  {
+    "id": 252,
+    "nama": "Kosovo",
+    "kode": "XK",
+    "konfederasi": 3,
+    "rating": 66,
+    "poin": 0
+  },
+  {
+    "id": 253,
+    "nama": "Nueva Caledonia",
+    "kode": "NC",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  },
+  {
+    "id": 254,
+    "nama": "Fantasy",
+    "kode": "FN",
+    "konfederasi": 0,
+    "rating": 0,
+    "poin": 0
+  }
+]

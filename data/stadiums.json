@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "nama": "Allianz Arena",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 75024
+  },
+  {
+    "id": 2,
+    "nama": "BayArena",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 30210
+  },
+  {
+    "id": 3,
+    "nama": "Deutsche Bank Park",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 51500
+  },
+  {
+    "id": 4,
+    "nama": "Red Bull Arena",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 47069
+  },
+  {
+    "id": 5,
+    "nama": "Mercedes-Benz Arena",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 60441
+  },
+  {
+    "id": 6,
+    "nama": "Bruchwegstadion",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 34000
+  },
+  {
+    "id": 7,
+    "nama": "Borussia-Park",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 54057
+  },
+  {
+    "id": 8,
+    "nama": "Weserstadion",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 42100
+  },
+  {
+    "id": 9,
+    "nama": "Europa-Park",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 34700
+  },
+  {
+    "id": 10,
+    "nama": "Volkswagen-Arena",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 30000
+  },
+  {
+    "id": 11,
+    "nama": "Signal Iduna Park",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 81365
+  },
+  {
+    "id": 12,
+    "nama": "WWK Arena",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 30660
+  },
+  {
+    "id": 13,
+    "nama": "Millerntor",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 29546
+  },
+  {
+    "id": 14,
+    "nama": "An der Alten Försterei",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 22012
+  },
+  {
+    "id": 15,
+    "nama": "PreZero Arena",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 30150
+  },
+  {
+    "id": 16,
+    "nama": "Voith-Arena",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 15000
+  },
+  {
+    "id": 17,
+    "nama": "Holstein",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 11522
+  },
+  {
+    "id": 18,
+    "nama": "Vonovia Ruhrstadion",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 26000
+  },
+  {
+    "id": 19,
+    "nama": "Rhein-Energie-",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 50000
+  },
+  {
+    "id": 20,
+    "nama": "Volksparkstadion",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 57000
+  },
+  {
+    "id": 21,
+    "nama": "MDCC-Arena",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 30098
+  },
+  {
+    "id": 22,
+    "nama": "Fritz-Walter",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 49850
+  },
+  {
+    "id": 23,
+    "nama": "Merkur-Spiel Arena",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 54600
+  },
+  {
+    "id": 24,
+    "nama": "Heinz von Heiden Arena",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 49000
+  },
+  {
+    "id": 25,
+    "nama": "Benteler Arena",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 15306
+  },
+  {
+    "id": 26,
+    "nama": "BBBank Wildpark",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 15330
+  },
+  {
+    "id": 27,
+    "nama": "Waldstadion an der Kaiserlinde",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 10000
+  },
+  {
+    "id": 28,
+    "nama": "Max-Morlock",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 50000
+  },
+  {
+    "id": 29,
+    "nama": "Merck- am Böllenfalltor",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 17400
+  },
+  {
+    "id": 30,
+    "nama": "Olympiastadion Berlin",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 74649
+  },
+  {
+    "id": 31,
+    "nama": "Veltins-Arena",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 62271
+  },
+  {
+    "id": 32,
+    "nama": "Sportpark Ronhof Sommer",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 15606
+  },
+  {
+    "id": 33,
+    "nama": "Preußen",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 15000
+  },
+  {
+    "id": 34,
+    "nama": "Donaustadion",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 19500
+  },
+  {
+    "id": 35,
+    "nama": "Eintracht",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 25000
+  },
+  {
+    "id": 36,
+    "nama": "Jahnstadion Regensburg",
+    "kota": "Germany",
+    "negara": "Alemania",
+    "kapasitas": 15210
+  },
+  {
+    "id": 37,
+    "nama": "Santiago Bernabéu",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 81044
+  },
+  {
+    "id": 38,
+    "nama": "Riyadh Air Metropolitano",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 70460
+  },
+  {
+    "id": 39,
+    "nama": "Spotify Camp Nou",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 99354
+  },
+  {
+    "id": 40,
+    "nama": "San Mamés",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 53332
+  },
+  {
+    "id": 41,
+    "nama": "de la Cerámica",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 23000
+  },
+  {
+    "id": 42,
+    "nama": "de Vallecas",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 14505
+  },
+  {
+    "id": 43,
+    "nama": "Municipal Montilivi",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 11810
+  },
+  {
+    "id": 44,
+    "nama": "El Sadar",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 23516
+  },
+  {
+    "id": 45,
+    "nama": "Estadi Mallorca Son Moix",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 23142
+  },
+  {
+    "id": 46,
+    "nama": "Benito Villamarín",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 60721
+  },
+  {
+    "id": 47,
+    "nama": "Reale Arena",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 40000
+  },
+  {
+    "id": 48,
+    "nama": "Ramón Sánchez-Pizjuán",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 43883
+  },
+  {
+    "id": 49,
+    "nama": "Abanca Balaídos",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 24870
+  },
+  {
+    "id": 50,
+    "nama": "Coliseum",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 17700
+  },
+  {
+    "id": 51,
+    "nama": "de Gran Canaria",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 32400
+  },
+  {
+    "id": 52,
+    "nama": "Municipal de Butarque",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 12454
+  },
+  {
+    "id": 53,
+    "nama": "RCDE",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 40500
+  },
+  {
+    "id": 54,
+    "nama": "Mendizorroza",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 19940
+  },
+  {
+    "id": 55,
+    "nama": "Mestalla",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 49430
+  },
+  {
+    "id": 56,
+    "nama": "Municipal José Zorrilla",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 27618
+  },
+  {
+    "id": 57,
+    "nama": "El Sardinero",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 22308
+  },
+  {
+    "id": 58,
+    "nama": "UD Almería",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 18331
+  },
+  {
+    "id": 59,
+    "nama": "Municipal de Anduva",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 5759
+  },
+  {
+    "id": 60,
+    "nama": "El Alcoraz",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 9100
+  },
+  {
+    "id": 61,
+    "nama": "Martínez Valero",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 33732
+  },
+  {
+    "id": 62,
+    "nama": "Carlos Tartiere",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 30500
+  },
+  {
+    "id": 63,
+    "nama": "Ciutat de València",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 25354
+  },
+  {
+    "id": 64,
+    "nama": "Nuevo Los Cármenes",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 19336
+  },
+  {
+    "id": 65,
+    "nama": "El Molinón",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 30000
+  },
+  {
+    "id": 66,
+    "nama": "La Romareda",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 33608
+  },
+  {
+    "id": 67,
+    "nama": "Bahrain Victorious",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 21822
+  },
+  {
+    "id": 68,
+    "nama": "Abanca-Riazor",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 32490
+  },
+  {
+    "id": 69,
+    "nama": "Municipal de Ipurúa",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 8164
+  },
+  {
+    "id": 70,
+    "nama": "Nuevo Mirandilla",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 25033
+  },
+  {
+    "id": 71,
+    "nama": "La Rosaleda",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 30044
+  },
+  {
+    "id": 72,
+    "nama": "Carlos Belmonte",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 17200
+  },
+  {
+    "id": 73,
+    "nama": "SkyFi Castalia",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 15700
+  },
+  {
+    "id": 74,
+    "nama": "El Plantío",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 12194
+  },
+  {
+    "id": 75,
+    "nama": "Nuevo Pepico Amat",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 4036
+  },
+  {
+    "id": 76,
+    "nama": "de A Malata",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 12043
+  },
+  {
+    "id": 77,
+    "nama": "Heliodoro Rodríguez",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 22824
+  },
+  {
+    "id": 78,
+    "nama": "Cartagonova",
+    "kota": "Spain",
+    "negara": "España",
+    "kapasitas": 15105
+  },
+  {
+    "id": 79,
+    "nama": "Parc des Princes",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 48583
+  },
+  {
+    "id": 80,
+    "nama": "Orange Vélodrome",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 67000
+  },
+  {
+    "id": 81,
+    "nama": "Louis-II",
+    "kota": "Monaco",
+    "negara": "Francia",
+    "kapasitas": 18523
+  },
+  {
+    "id": 82,
+    "nama": "Decathlon Arena",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 50000
+  },
+  {
+    "id": 83,
+    "nama": "Allianz Riviera",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 36100
+  },
+  {
+    "id": 84,
+    "nama": "Bollaert-Delelis",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 38223
+  },
+  {
+    "id": 85,
+    "nama": "Groupama",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 59186
+  },
+  {
+    "id": 86,
+    "nama": "Francis-Le Blé",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 15220
+  },
+  {
+    "id": 87,
+    "nama": "de la Meinau",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 27500
+  },
+  {
+    "id": 88,
+    "nama": "de Toulouse",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 33150
+  },
+  {
+    "id": 89,
+    "nama": "de l'Abbé Deschamps",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 18541
+  },
+  {
+    "id": 90,
+    "nama": "Raymond-Kopa",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 18752
+  },
+  {
+    "id": 91,
+    "nama": "Auguste-Delaune",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 21029
+  },
+  {
+    "id": 92,
+    "nama": "de la Beaujoire",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 35322
+  },
+  {
+    "id": 93,
+    "nama": "Roazhon Park",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 29778
+  },
+  {
+    "id": 94,
+    "nama": "Geoffroy-Guichard",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 42000
+  },
+  {
+    "id": 95,
+    "nama": "de la Mosson",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 32900
+  },
+  {
+    "id": 96,
+    "nama": "Océane",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 25178
+  },
+  {
+    "id": 97,
+    "nama": "du Moustoir",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 18110
+  },
+  {
+    "id": 98,
+    "nama": "Sébastien Charléty",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 20000
+  },
+  {
+    "id": 99,
+    "nama": "Saint-Symphorien",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 28786
+  },
+  {
+    "id": 100,
+    "nama": "Marcel-Tribut",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 4200
+  },
+  {
+    "id": 101,
+    "nama": "du Roudourou",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 18363
+  },
+  {
+    "id": 102,
+    "nama": "Francis Le Basser",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 11107
+  },
+  {
+    "id": 103,
+    "nama": "Parc Des Sports Annecy",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 15660
+  },
+  {
+    "id": 104,
+    "nama": "des Alpes",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 20068
+  },
+  {
+    "id": 105,
+    "nama": "Nouste Camp",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 4031
+  },
+  {
+    "id": 106,
+    "nama": "de la Licorne",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 12999
+  },
+  {
+    "id": 107,
+    "nama": "Armand Césari",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 16078
+  },
+  {
+    "id": 108,
+    "nama": "de l'Aube",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 21684
+  },
+  {
+    "id": 109,
+    "nama": "Gabriel Montpied",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 13000
+  },
+  {
+    "id": 110,
+    "nama": "François Coty",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 10446
+  },
+  {
+    "id": 111,
+    "nama": "Paul-Lignon",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 5955
+  },
+  {
+    "id": 112,
+    "nama": "Bauer",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 10000
+  },
+  {
+    "id": 113,
+    "nama": "Francis Turcan",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 11500
+  },
+  {
+    "id": 114,
+    "nama": "Michel d'Ornano",
+    "kota": "France",
+    "negara": "Francia",
+    "kapasitas": 21215
+  },
+  {
+    "id": 115,
+    "nama": "Diego Armando Maradona",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 60240
+  },
+  {
+    "id": 116,
+    "nama": "Giuseppe Meazza",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 80018
+  },
+  {
+    "id": 117,
+    "nama": "Gewiss",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 21000
+  },
+  {
+    "id": 118,
+    "nama": "Artemio Franchi",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 43147
+  },
+  {
+    "id": 119,
+    "nama": "Olimpico di Roma",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 70634
+  },
+  {
+    "id": 120,
+    "nama": "Juventus",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 41507
+  },
+  {
+    "id": 121,
+    "nama": "Renato Dall'Ara",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 38279
+  },
+  {
+    "id": 122,
+    "nama": "Giuseppe Meazza",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 80018
+  },
+  {
+    "id": 123,
+    "nama": "Olimpico di Roma",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 70634
+  },
+  {
+    "id": 124,
+    "nama": "Bluenergy",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 25144
+  },
+  {
+    "id": 125,
+    "nama": "Olimpico Grande Torino",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 28177
+  },
+  {
+    "id": 126,
+    "nama": "Luigi Ferraris",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 36599
+  },
+  {
+    "id": 127,
+    "nama": "Marcantonio Bentegodi",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 39211
+  },
+  {
+    "id": 128,
+    "nama": "Via del Mare",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 40670
+  },
+  {
+    "id": 129,
+    "nama": "Giuseppe Sinigaglia",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 13602
+  },
+  {
+    "id": 130,
+    "nama": "Carlo Castellani",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 16800
+  },
+  {
+    "id": 131,
+    "nama": "Unipol Domus",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 16416
+  },
+  {
+    "id": 132,
+    "nama": "Ennio Tardini",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 28783
+  },
+  {
+    "id": 133,
+    "nama": "Pierluigi Penzo",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 7450
+  },
+  {
+    "id": 134,
+    "nama": "U-Power",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 18568
+  },
+  {
+    "id": 135,
+    "nama": "MAPEI",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 21525
+  },
+  {
+    "id": 136,
+    "nama": "Arena Garibaldi",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 17500
+  },
+  {
+    "id": 137,
+    "nama": "Alberto Picco",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 11466
+  },
+  {
+    "id": 138,
+    "nama": "Giovanni Zini",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 20641
+  },
+  {
+    "id": 139,
+    "nama": "Nicola Ceravolo",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 14650
+  },
+  {
+    "id": 140,
+    "nama": "San Nicola",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 58270
+  },
+  {
+    "id": 141,
+    "nama": "Comunale Romeo Menti",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 7642
+  },
+  {
+    "id": 142,
+    "nama": "Renzo Barbera",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 37242
+  },
+  {
+    "id": 143,
+    "nama": "Alberto Braglia",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 20507
+  },
+  {
+    "id": 144,
+    "nama": "Dino Manuzzi",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 23860
+  },
+  {
+    "id": 145,
+    "nama": "Mario Rigamonti",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 27547
+  },
+  {
+    "id": 146,
+    "nama": "MAPEI",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 21525
+  },
+  {
+    "id": 147,
+    "nama": "Danilo Martelli",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 21000
+  },
+  {
+    "id": 148,
+    "nama": "dei Marmi",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 9500
+  },
+  {
+    "id": 149,
+    "nama": "Pier Cesare Tombolato",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 7623
+  },
+  {
+    "id": 150,
+    "nama": "Luigi Ferraris",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 36599
+  },
+  {
+    "id": 151,
+    "nama": "Marco Druso",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 3463
+  },
+  {
+    "id": 152,
+    "nama": "Arechi",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 37800
+  },
+  {
+    "id": 153,
+    "nama": "Benito Stirpe",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 16227
+  },
+  {
+    "id": 154,
+    "nama": "San Vito",
+    "kota": "Italy",
+    "negara": "Italia",
+    "kapasitas": 24209
+  },
+  {
+    "id": 155,
+    "nama": "Philips",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 36500
+  },
+  {
+    "id": 156,
+    "nama": "Johan Cruyff Arena",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 55885
+  },
+  {
+    "id": 157,
+    "nama": "Galgenwaard",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 23750
+  },
+  {
+    "id": 158,
+    "nama": "AFAS",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 19500
+  },
+  {
+    "id": 159,
+    "nama": "Feijenoord",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 51117
+  },
+  {
+    "id": 160,
+    "nama": "De Grolsch Veste",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 30205
+  },
+  {
+    "id": 161,
+    "nama": "De Adelaarshorst",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 10000
+  },
+  {
+    "id": 162,
+    "nama": "Fortuna Sittard",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 12500
+  },
+  {
+    "id": 163,
+    "nama": "Rat Verlegh",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 19000
+  },
+  {
+    "id": 164,
+    "nama": "Abe Lenstra",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 27224
+  },
+  {
+    "id": 165,
+    "nama": "Goffertstadion",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 12500
+  },
+  {
+    "id": 166,
+    "nama": "MAC³PARK",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 14000
+  },
+  {
+    "id": 167,
+    "nama": "Koning Willem II",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 14750
+  },
+  {
+    "id": 168,
+    "nama": "Erve Asito",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 8500
+  },
+  {
+    "id": 169,
+    "nama": "Euroborg",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 22579
+  },
+  {
+    "id": 170,
+    "nama": "Sparta  Het Kasteel",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 11026
+  },
+  {
+    "id": 171,
+    "nama": "Mandemakers",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 7508
+  },
+  {
+    "id": 172,
+    "nama": "Yanmar",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 4501
+  },
+  {
+    "id": 173,
+    "nama": "Kras",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 7384
+  },
+  {
+    "id": 174,
+    "nama": "Van Donge & De Roo",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 4500
+  },
+  {
+    "id": 175,
+    "nama": "BrainWash  De Vliert",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 9000
+  },
+  {
+    "id": 176,
+    "nama": "GN Bouw",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 4088
+  },
+  {
+    "id": 177,
+    "nama": "Cambuurstadion",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 10500
+  },
+  {
+    "id": 178,
+    "nama": "Kyocera",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 15000
+  },
+  {
+    "id": 179,
+    "nama": "De Vijverberg",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 12600
+  },
+  {
+    "id": 180,
+    "nama": "Parkstad Limburg",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 19979
+  },
+  {
+    "id": 181,
+    "nama": "De Oude Meerdijk",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 8600
+  },
+  {
+    "id": 182,
+    "nama": "De Braak",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 4142
+  },
+  {
+    "id": 183,
+    "nama": "BUKO",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 3625
+  },
+  {
+    "id": 184,
+    "nama": "Jan Louwers",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 5400
+  },
+  {
+    "id": 185,
+    "nama": "De Geusselt",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 10000
+  },
+  {
+    "id": 186,
+    "nama": "AFAS Stadion",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 17023
+  },
+  {
+    "id": 187,
+    "nama": "Frans Heesen",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 4700
+  },
+  {
+    "id": 188,
+    "nama": "Seacon  De Koel",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 8000
+  },
+  {
+    "id": 189,
+    "nama": "Sportpark De Toekomst",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 2500
+  },
+  {
+    "id": 190,
+    "nama": "PSV Campus De Herdgang",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 2500
+  },
+  {
+    "id": 191,
+    "nama": "Galgenwaard",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 23750
+  },
+  {
+    "id": 192,
+    "nama": "GelreDome",
+    "kota": "Netherlands",
+    "negara": "Países Bajos",
+    "kapasitas": 34000
+  },
+  {
+    "id": 193,
+    "nama": "Enea stadion",
+    "kota": "Poland",
+    "negara": "Polonia",
+    "kapasitas": 42837
+  },
+  {
+    "id": 194,
+    "nama": "Miejski",
+    "kota": "Poland",
+    "negara": "Polonia",
+    "kapasitas": 22432
+  },
+  {
+    "id": 195,
+    "nama": "Miejski  Piłkarski `Raków´",
+    "kota": "Poland",
+    "negara": "Polonia",
+    "kapasitas": 5500
+  },
+  {
+    "id": 196,
+    "nama": "Wojska Polskiego",
+    "kota": "Poland",
+    "negara": "Polonia",
+    "kapasitas": 31800
+  },
+  {
+    "id": 197,
+    "nama": "Cracovii",
+    "kota": "Poland",
+    "negara": "Polonia",
+    "kapasitas": 15016
+  },
+  {
+    "id": 198,
+    "nama": "Ernest Pohl",
+    "kota": "Poland",
+    "negara": "Polonia",
+    "kapasitas": 10000
+  },
+  {
+    "id": 199,
+    "nama": "Miejski im. Floriana Krygiera",
+    "kota": "Poland",
+    "negara": "Polonia",
+    "kapasitas": 17783
+  },
+  {
+    "id": 200,
+    "nama": "Arena Lublin",
+    "kota": "Poland",
+    "negara": "Polonia",
+    "kapasitas": 15500
+  }
+]
