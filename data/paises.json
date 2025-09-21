@@ -1,0 +1,2034 @@
+[
+  {
+    "paid": 1,
+    "nombre": "Afganistán",
+    "iso2": "AF",
+    "poder": 59,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 2,
+    "nombre": "Albania",
+    "iso2": "AL",
+    "poder": 74,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 3,
+    "nombre": "Alemania",
+    "iso2": "DE",
+    "poder": 88,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 4,
+    "nombre": "Argelia",
+    "iso2": "DZ",
+    "poder": 81,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 5,
+    "nombre": "Andorra",
+    "iso2": "AD",
+    "poder": 58,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 6,
+    "nombre": "Angola",
+    "iso2": "AO",
+    "poder": 63,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 7,
+    "nombre": "Anguila",
+    "iso2": "AI",
+    "poder": 50,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 8,
+    "nombre": "Antártida",
+    "iso2": "AQ",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 9,
+    "nombre": "Antigua y Barbuda",
+    "iso2": "AG",
+    "poder": 63,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 10,
+    "nombre": "Arabia Saudita",
+    "iso2": "SA",
+    "poder": 76,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 11,
+    "nombre": "Argentina",
+    "iso2": "AR",
+    "poder": 91,
+    "pts": 0,
+    "confederacion": 2
+  },
+  {
+    "paid": 12,
+    "nombre": "Armenia",
+    "iso2": "AM",
+    "poder": 70,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 13,
+    "nombre": "Aruba",
+    "iso2": "AW",
+    "poder": 51,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 14,
+    "nombre": "Australia",
+    "iso2": "AU",
+    "poder": 81,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 15,
+    "nombre": "Austria",
+    "iso2": "AT",
+    "poder": 79,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 16,
+    "nombre": "Azerbaiyán",
+    "iso2": "AZ",
+    "poder": 65,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 17,
+    "nombre": "Bélgica",
+    "iso2": "BE",
+    "poder": 88,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 18,
+    "nombre": "Bahamas",
+    "iso2": "BS",
+    "poder": 50,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 19,
+    "nombre": "Bahrein",
+    "iso2": "BH",
+    "poder": 70,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 20,
+    "nombre": "Bangladesh",
+    "iso2": "BD",
+    "poder": 52,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 21,
+    "nombre": "Barbados",
+    "iso2": "BB",
+    "poder": 56,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 22,
+    "nombre": "Belice",
+    "iso2": "BZ",
+    "poder": 55,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 23,
+    "nombre": "Benín",
+    "iso2": "BJ",
+    "poder": 72,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 24,
+    "nombre": "Bhután",
+    "iso2": "BT",
+    "poder": 52,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 25,
+    "nombre": "Bielorrusia",
+    "iso2": "BY",
+    "poder": 70,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 26,
+    "nombre": "Birmania",
+    "iso2": "MM",
+    "poder": 58,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 27,
+    "nombre": "Bolivia",
+    "iso2": "BO",
+    "poder": 73,
+    "pts": 0,
+    "confederacion": 2
+  },
+  {
+    "paid": 28,
+    "nombre": "Bosnia-Herzegovina",
+    "iso2": "BA",
+    "poder": 75,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 29,
+    "nombre": "Botsuana",
+    "iso2": "BW",
+    "poder": 59,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 30,
+    "nombre": "Brasil",
+    "iso2": "BR",
+    "poder": 89,
+    "pts": 0,
+    "confederacion": 2
+  },
+  {
+    "paid": 31,
+    "nombre": "Brunéi",
+    "iso2": "BN",
+    "poder": 52,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 32,
+    "nombre": "Bulgaria",
+    "iso2": "BG",
+    "poder": 73,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 33,
+    "nombre": "Burkina Faso",
+    "iso2": "BF",
+    "poder": 75,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 34,
+    "nombre": "Burundi",
+    "iso2": "BI",
+    "poder": 61,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 35,
+    "nombre": "Cabo Verde",
+    "iso2": "CV",
+    "poder": 73,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 36,
+    "nombre": "Camboya",
+    "iso2": "KH",
+    "poder": 54,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 37,
+    "nombre": "Camerún",
+    "iso2": "CM",
+    "poder": 78,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 38,
+    "nombre": "Canadá",
+    "iso2": "CA",
+    "poder": 78,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 39,
+    "nombre": "Chad",
+    "iso2": "TD",
+    "poder": 53,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 40,
+    "nombre": "Chile",
+    "iso2": "CL",
+    "poder": 82,
+    "pts": 0,
+    "confederacion": 2
+  },
+  {
+    "paid": 41,
+    "nombre": "China",
+    "iso2": "CN",
+    "poder": 73,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 42,
+    "nombre": "Chipre",
+    "iso2": "CY",
+    "poder": 68,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 43,
+    "nombre": "Ciudad del Vaticano",
+    "iso2": "VA",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 44,
+    "nombre": "Colombia",
+    "iso2": "CO",
+    "poder": 82,
+    "pts": 0,
+    "confederacion": 2
+  },
+  {
+    "paid": 45,
+    "nombre": "Comoras",
+    "iso2": "KM",
+    "poder": 62,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 46,
+    "nombre": "República del Congo",
+    "iso2": "CG",
+    "poder": 69,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 47,
+    "nombre": "República Democrática del Cong",
+    "iso2": "CD",
+    "poder": 75,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 48,
+    "nombre": "Corea del Norte",
+    "iso2": "KP",
+    "poder": 67,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 49,
+    "nombre": "Corea del Sur",
+    "iso2": "KR",
+    "poder": 80,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 50,
+    "nombre": "Costa de Marfil",
+    "iso2": "CI",
+    "poder": 75,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 51,
+    "nombre": "Costa Rica",
+    "iso2": "CR",
+    "poder": 79,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 52,
+    "nombre": "Croacia",
+    "iso2": "HR",
+    "poder": 85,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 53,
+    "nombre": "Cuba",
+    "iso2": "CU",
+    "poder": 53,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 54,
+    "nombre": "Curazao",
+    "iso2": "CW",
+    "poder": 73,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 55,
+    "nombre": "Dinamarca",
+    "iso2": "DK",
+    "poder": 85,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 56,
+    "nombre": "Dominica",
+    "iso2": "DM",
+    "poder": 52,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 57,
+    "nombre": "Ecuador",
+    "iso2": "EC",
+    "poder": 79,
+    "pts": 0,
+    "confederacion": 2
+  },
+  {
+    "paid": 58,
+    "nombre": "Egipto",
+    "iso2": "EG",
+    "poder": 77,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 59,
+    "nombre": "El Salvador",
+    "iso2": "SV",
+    "poder": 74,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 60,
+    "nombre": "Emiratos Árabes Unidos",
+    "iso2": "AE",
+    "poder": 74,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 61,
+    "nombre": "Eritrea",
+    "iso2": "ER",
+    "poder": 50,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 62,
+    "nombre": "Eslovaquia",
+    "iso2": "SK",
+    "poder": 78,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 63,
+    "nombre": "Eslovenia",
+    "iso2": "SI",
+    "poder": 75,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 64,
+    "nombre": "España",
+    "iso2": "ES",
+    "poder": 86,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 65,
+    "nombre": "Estados Unidos",
+    "iso2": "US",
+    "poder": 83,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 66,
+    "nombre": "Estonia",
+    "iso2": "EE",
+    "poder": 67,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 67,
+    "nombre": "Etiopía",
+    "iso2": "ET",
+    "poder": 61,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 68,
+    "nombre": "Filipinas",
+    "iso2": "PH",
+    "poder": 63,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 69,
+    "nombre": "Finlandia",
+    "iso2": "FI",
+    "poder": 75,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 70,
+    "nombre": "Fiyi",
+    "iso2": "FJ",
+    "poder": 56,
+    "pts": 0,
+    "confederacion": 6
+  },
+  {
+    "paid": 71,
+    "nombre": "Francia",
+    "iso2": "FR",
+    "poder": 90,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 72,
+    "nombre": "Gabón",
+    "iso2": "GA",
+    "poder": 71,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 73,
+    "nombre": "Gambia",
+    "iso2": "GM",
+    "poder": 59,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 74,
+    "nombre": "Georgia",
+    "iso2": "GE",
+    "poder": 72,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 75,
+    "nombre": "Ghana",
+    "iso2": "GH",
+    "poder": 76,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 76,
+    "nombre": "Gibraltar",
+    "iso2": "GI",
+    "poder": 50,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 77,
+    "nombre": "Granada",
+    "iso2": "GD",
+    "poder": 55,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 78,
+    "nombre": "Grecia",
+    "iso2": "GR",
+    "poder": 76,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 79,
+    "nombre": "Groenlandia",
+    "iso2": "GL",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 80,
+    "nombre": "Guadalupe",
+    "iso2": "GP",
+    "poder": 40,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 81,
+    "nombre": "Guam",
+    "iso2": "GU",
+    "poder": 50,
+    "pts": 0,
+    "confederacion": 6
+  },
+  {
+    "paid": 82,
+    "nombre": "Guatemala",
+    "iso2": "GT",
+    "poder": 64,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 83,
+    "nombre": "Guayana Francesa",
+    "iso2": "GF",
+    "poder": 40,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 84,
+    "nombre": "Guernsey",
+    "iso2": "GG",
+    "poder": 40,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 85,
+    "nombre": "Guinea",
+    "iso2": "GN",
+    "poder": 72,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 86,
+    "nombre": "Guinea Ecuatorial",
+    "iso2": "GQ",
+    "poder": 66,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 87,
+    "nombre": "Guinea Bissau",
+    "iso2": "GW",
+    "poder": 67,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 88,
+    "nombre": "Guyana",
+    "iso2": "GY",
+    "poder": 53,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 89,
+    "nombre": "Haití",
+    "iso2": "HT",
+    "poder": 71,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 90,
+    "nombre": "Honduras",
+    "iso2": "HN",
+    "poder": 73,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 91,
+    "nombre": "Hong kong",
+    "iso2": "HK",
+    "poder": 59,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 92,
+    "nombre": "Hungría",
+    "iso2": "HU",
+    "poder": 77,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 93,
+    "nombre": "India",
+    "iso2": "IN",
+    "poder": 68,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 94,
+    "nombre": "Indonesia",
+    "iso2": "ID",
+    "poder": 56,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 95,
+    "nombre": "Irán",
+    "iso2": "IR",
+    "poder": 82,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 96,
+    "nombre": "Irak",
+    "iso2": "IQ",
+    "poder": 73,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 97,
+    "nombre": "Irlanda",
+    "iso2": "IE",
+    "poder": 77,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 98,
+    "nombre": "Isla Bouvet",
+    "iso2": "BV",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 99,
+    "nombre": "Isla de Man",
+    "iso2": "IM",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 100,
+    "nombre": "Isla de Navidad",
+    "iso2": "CX",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 101,
+    "nombre": "Isla Norfolk",
+    "iso2": "NF",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 102,
+    "nombre": "Islandia",
+    "iso2": "IS",
+    "poder": 75,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 103,
+    "nombre": "Islas Bermudas",
+    "iso2": "BM",
+    "poder": 56,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 104,
+    "nombre": "Islas Caimán",
+    "iso2": "KY",
+    "poder": 51,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 105,
+    "nombre": "Islas Cocos (Keeling)",
+    "iso2": "CC",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 106,
+    "nombre": "Islas Cook",
+    "iso2": "CK",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 107,
+    "nombre": "Islas de Åland",
+    "iso2": "AX",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 108,
+    "nombre": "Islas Feroe",
+    "iso2": "FO",
+    "poder": 64,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 109,
+    "nombre": "Islas Georgias del Sur y Sandw",
+    "iso2": "GS",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 110,
+    "nombre": "Islas Heard y McDonald",
+    "iso2": "HM",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 111,
+    "nombre": "Islas Maldivas",
+    "iso2": "MV",
+    "poder": 57,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 112,
+    "nombre": "Islas Malvinas",
+    "iso2": "FK",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 113,
+    "nombre": "Islas Marianas del Norte",
+    "iso2": "MP",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 114,
+    "nombre": "Islas Marshall",
+    "iso2": "MH",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 115,
+    "nombre": "Islas Pitcairn",
+    "iso2": "PN",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 116,
+    "nombre": "Islas Salomón",
+    "iso2": "SB",
+    "poder": 60,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 117,
+    "nombre": "Islas Turcas y Caicos",
+    "iso2": "TC",
+    "poder": 50,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 118,
+    "nombre": "Islas Ultramarinas Menores de ",
+    "iso2": "UM",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 119,
+    "nombre": "Islas Vírgenes Británicas",
+    "iso2": "VG",
+    "poder": 50,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 120,
+    "nombre": "Islas Vírgenes de los Estados ",
+    "iso2": "VI",
+    "poder": 50,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 121,
+    "nombre": "Israel",
+    "iso2": "IL",
+    "poder": 73,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 122,
+    "nombre": "Italia",
+    "iso2": "IT",
+    "poder": 85,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 123,
+    "nombre": "Jamaica",
+    "iso2": "JM",
+    "poder": 70,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 124,
+    "nombre": "Japón",
+    "iso2": "JP",
+    "poder": 83,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 125,
+    "nombre": "Jersey",
+    "iso2": "JE",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 126,
+    "nombre": "Jordania",
+    "iso2": "JO",
+    "poder": 55,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 127,
+    "nombre": "Kazajistán",
+    "iso2": "KZ",
+    "poder": 65,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 128,
+    "nombre": "Kenia",
+    "iso2": "KE",
+    "poder": 68,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 129,
+    "nombre": "Kirguistán",
+    "iso2": "KG",
+    "poder": 69,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 130,
+    "nombre": "Kiribati",
+    "iso2": "KI",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 131,
+    "nombre": "Kuwait",
+    "iso2": "KW",
+    "poder": 60,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 132,
+    "nombre": "Líbano",
+    "iso2": "LB",
+    "poder": 70,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 133,
+    "nombre": "Laos",
+    "iso2": "LA",
+    "poder": 52,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 134,
+    "nombre": "Lesoto",
+    "iso2": "LS",
+    "poder": 60,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 135,
+    "nombre": "Letonia",
+    "iso2": "LV",
+    "poder": 62,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 136,
+    "nombre": "Liberia",
+    "iso2": "LR",
+    "poder": 60,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 137,
+    "nombre": "Libia",
+    "iso2": "LY",
+    "poder": 65,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 138,
+    "nombre": "Liechtenstein",
+    "iso2": "LI",
+    "poder": 51,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 139,
+    "nombre": "Lituania",
+    "iso2": "LT",
+    "poder": 61,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 140,
+    "nombre": "Luxemburgo",
+    "iso2": "LU",
+    "poder": 70,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 141,
+    "nombre": "México",
+    "iso2": "MX",
+    "poder": 81,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 142,
+    "nombre": "Mónaco",
+    "iso2": "MC",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 143,
+    "nombre": "Macao",
+    "iso2": "MO",
+    "poder": 52,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 144,
+    "nombre": "Macedonia",
+    "iso2": "MK",
+    "poder": 74,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 145,
+    "nombre": "Madagascar",
+    "iso2": "MG",
+    "poder": 68,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 146,
+    "nombre": "Malasia",
+    "iso2": "MY",
+    "poder": 58,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 147,
+    "nombre": "Malawi",
+    "iso2": "MW",
+    "poder": 63,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 148,
+    "nombre": "Mali",
+    "iso2": "ML",
+    "poder": 76,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 149,
+    "nombre": "Malta",
+    "iso2": "MT",
+    "poder": 54,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 150,
+    "nombre": "Marruecos",
+    "iso2": "MA",
+    "poder": 81,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 151,
+    "nombre": "Martinica",
+    "iso2": "MQ",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 152,
+    "nombre": "Mauricio",
+    "iso2": "MU",
+    "poder": 54,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 153,
+    "nombre": "Mauritania",
+    "iso2": "MR",
+    "poder": 68,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 154,
+    "nombre": "Mayotte",
+    "iso2": "YT",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 155,
+    "nombre": "Micronesia",
+    "iso2": "FM",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 156,
+    "nombre": "Moldavia",
+    "iso2": "MD",
+    "poder": 52,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 157,
+    "nombre": "Mongolia",
+    "iso2": "MN",
+    "poder": 52,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 158,
+    "nombre": "Montenegro",
+    "iso2": "ME",
+    "poder": 73,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 159,
+    "nombre": "Montserrat",
+    "iso2": "MS",
+    "poder": 53,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 160,
+    "nombre": "Mozambique",
+    "iso2": "MZ",
+    "poder": 65,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 161,
+    "nombre": "Namibia",
+    "iso2": "NA",
+    "poder": 66,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 162,
+    "nombre": "Nauru",
+    "iso2": "NR",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 163,
+    "nombre": "Nepal",
+    "iso2": "NP",
+    "poder": 55,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 164,
+    "nombre": "Nicaragua",
+    "iso2": "NI",
+    "poder": 60,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 165,
+    "nombre": "Niger",
+    "iso2": "NE",
+    "poder": 66,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 166,
+    "nombre": "Nigeria",
+    "iso2": "NG",
+    "poder": 79,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 167,
+    "nombre": "Niue",
+    "iso2": "NU",
+    "poder": 35,
+    "pts": 0,
+    "confederacion": 6
+  },
+  {
+    "paid": 168,
+    "nombre": "Noruega",
+    "iso2": "NO",
+    "poder": 78,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 169,
+    "nombre": "Nueva Caledonia",
+    "iso2": "NC",
+    "poder": 58,
+    "pts": 0,
+    "confederacion": 6
+  },
+  {
+    "paid": 170,
+    "nombre": "Nueva Zelanda",
+    "iso2": "NZ",
+    "poder": 67,
+    "pts": 0,
+    "confederacion": 6
+  },
+  {
+    "paid": 171,
+    "nombre": "Omán",
+    "iso2": "OM",
+    "poder": 73,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 172,
+    "nombre": "Países Bajos",
+    "iso2": "NL",
+    "poder": 86,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 173,
+    "nombre": "Pakistán",
+    "iso2": "PK",
+    "poder": 51,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 174,
+    "nombre": "Palau",
+    "iso2": "PW",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 175,
+    "nombre": "Palestina",
+    "iso2": "PS",
+    "poder": 69,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 176,
+    "nombre": "Panamá",
+    "iso2": "PA",
+    "poder": 72,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 177,
+    "nombre": "Papúa Nueva Guinea",
+    "iso2": "PG",
+    "poder": 55,
+    "pts": 0,
+    "confederacion": 6
+  },
+  {
+    "paid": 178,
+    "nombre": "Paraguay",
+    "iso2": "PY",
+    "poder": 78,
+    "pts": 0,
+    "confederacion": 2
+  },
+  {
+    "paid": 179,
+    "nombre": "Perú",
+    "iso2": "PE",
+    "poder": 79,
+    "pts": 0,
+    "confederacion": 2
+  },
+  {
+    "paid": 180,
+    "nombre": "Polinesia Francesa",
+    "iso2": "PF",
+    "poder": 57,
+    "pts": 0,
+    "confederacion": 6
+  },
+  {
+    "paid": 181,
+    "nombre": "Polonia",
+    "iso2": "PL",
+    "poder": 83,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 182,
+    "nombre": "Portugal",
+    "iso2": "PT",
+    "poder": 87,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 183,
+    "nombre": "Puerto Rico",
+    "iso2": "PR",
+    "poder": 54,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 184,
+    "nombre": "Qatar",
+    "iso2": "QA",
+    "poder": 77,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 185,
+    "nombre": "Inglaterra",
+    "iso2": "GB",
+    "poder": 89,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 186,
+    "nombre": "República Centroafricana",
+    "iso2": "CF",
+    "poder": 63,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 187,
+    "nombre": "República Checa",
+    "iso2": "CZ",
+    "poder": 81,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 188,
+    "nombre": "República Dominicana",
+    "iso2": "DO",
+    "poder": 57,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 189,
+    "nombre": "República de Sudán del Sur",
+    "iso2": "SS",
+    "poder": 55,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 190,
+    "nombre": "Reunión",
+    "iso2": "RE",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 191,
+    "nombre": "Ruanda",
+    "iso2": "RW",
+    "poder": 62,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 192,
+    "nombre": "Rumanía",
+    "iso2": "RO",
+    "poder": 78,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 193,
+    "nombre": "Rusia",
+    "iso2": "RU",
+    "poder": 80,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 194,
+    "nombre": "Sahara Occidental",
+    "iso2": "EH",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 195,
+    "nombre": "Samoa",
+    "iso2": "WS",
+    "poder": 51,
+    "pts": 0,
+    "confederacion": 6
+  },
+  {
+    "paid": 196,
+    "nombre": "Samoa Americana",
+    "iso2": "AS",
+    "poder": 52,
+    "pts": 0,
+    "confederacion": 6
+  },
+  {
+    "paid": 197,
+    "nombre": "San Bartolomé",
+    "iso2": "BL",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 198,
+    "nombre": "San Cristóbal y Nieves",
+    "iso2": "KN",
+    "poder": 61,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 199,
+    "nombre": "San Marino",
+    "iso2": "SM",
+    "poder": 50,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 200,
+    "nombre": "San Martín (Francia)",
+    "iso2": "MF",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 201,
+    "nombre": "San Pedro y Miquelón",
+    "iso2": "PM",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 202,
+    "nombre": "San Vicente y las Granadinas",
+    "iso2": "VC",
+    "poder": 54,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 203,
+    "nombre": "Santa Elena",
+    "iso2": "SH",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 204,
+    "nombre": "Santa Lucía",
+    "iso2": "LC",
+    "poder": 53,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 205,
+    "nombre": "Santo Tomé y Príncipe",
+    "iso2": "ST",
+    "poder": 52,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 206,
+    "nombre": "Senegal",
+    "iso2": "SN",
+    "poder": 82,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 207,
+    "nombre": "Serbia",
+    "iso2": "RS",
+    "poder": 80,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 208,
+    "nombre": "Seychelles",
+    "iso2": "SC",
+    "poder": 51,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 209,
+    "nombre": "Sierra Leona",
+    "iso2": "SL",
+    "poder": 67,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 210,
+    "nombre": "Singapur",
+    "iso2": "SG",
+    "poder": 57,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 211,
+    "nombre": "Sint Maarten",
+    "iso2": "SX",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 212,
+    "nombre": "Siria",
+    "iso2": "SY",
+    "poder": 71,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 213,
+    "nombre": "Somalia",
+    "iso2": "SO",
+    "poder": 51,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 214,
+    "nombre": "Sri lanka",
+    "iso2": "LK",
+    "poder": 50,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 215,
+    "nombre": "Sudáfrica",
+    "iso2": "ZA",
+    "poder": 74,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 216,
+    "nombre": "Sudán",
+    "iso2": "SD",
+    "poder": 64,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 217,
+    "nombre": "Suecia",
+    "iso2": "SE",
+    "poder": 84,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 218,
+    "nombre": "Suiza",
+    "iso2": "CH",
+    "poder": 83,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 219,
+    "nombre": "Surinám",
+    "iso2": "SR",
+    "poder": 61,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 220,
+    "nombre": "Svalbard y Jan Mayen",
+    "iso2": "SJ",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 221,
+    "nombre": "Suazilandia",
+    "iso2": "SZ",
+    "poder": 59,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 222,
+    "nombre": "Tayikistán",
+    "iso2": "TJ",
+    "poder": 65,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 223,
+    "nombre": "Tailandia",
+    "iso2": "TH",
+    "poder": 66,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 224,
+    "nombre": "Taiwán",
+    "iso2": "TW",
+    "poder": 57,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 225,
+    "nombre": "Tanzania",
+    "iso2": "TZ",
+    "poder": 62,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 226,
+    "nombre": "Territorio Británico del Territorio Británico del Océano Índico",
+    "iso2": "IO",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 227,
+    "nombre": "Tierras Australes y Antárticas Francesas",
+    "iso2": "TF",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 228,
+    "nombre": "Timor Oriental",
+    "iso2": "TL",
+    "poder": 51,
+    "pts": 0,
+    "confederacion": 6
+  },
+  {
+    "paid": 229,
+    "nombre": "Togo",
+    "iso2": "TG",
+    "poder": 64,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 230,
+    "nombre": "Tokelau",
+    "iso2": "TK",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 231,
+    "nombre": "Tonga",
+    "iso2": "TO",
+    "poder": 51,
+    "pts": 0,
+    "confederacion": 6
+  },
+  {
+    "paid": 232,
+    "nombre": "Trinidad y Tobago",
+    "iso2": "TT",
+    "poder": 69,
+    "pts": 0,
+    "confederacion": 1
+  },
+  {
+    "paid": 233,
+    "nombre": "Tunez",
+    "iso2": "TN",
+    "poder": 81,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 234,
+    "nombre": "Turkmenistán",
+    "iso2": "TM",
+    "poder": 62,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 235,
+    "nombre": "Turquía",
+    "iso2": "TR",
+    "poder": 79,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 236,
+    "nombre": "Tuvalu",
+    "iso2": "TV",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 237,
+    "nombre": "Ucrania",
+    "iso2": "UA",
+    "poder": 79,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 238,
+    "nombre": "Uganda",
+    "iso2": "UG",
+    "poder": 72,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 239,
+    "nombre": "Uruguay",
+    "iso2": "UY",
+    "poder": 84,
+    "pts": 0,
+    "confederacion": 2
+  },
+  {
+    "paid": 240,
+    "nombre": "Uzbekistán",
+    "iso2": "UZ",
+    "poder": 72,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 241,
+    "nombre": "Vanuatu",
+    "iso2": "VU",
+    "poder": 56,
+    "pts": 0,
+    "confederacion": 6
+  },
+  {
+    "paid": 242,
+    "nombre": "Venezuela",
+    "iso2": "VE",
+    "poder": 75,
+    "pts": 0,
+    "confederacion": 2
+  },
+  {
+    "paid": 243,
+    "nombre": "Vietnam",
+    "iso2": "VN",
+    "poder": 69,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 244,
+    "nombre": "Wallis y Futuna",
+    "iso2": "WF",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 245,
+    "nombre": "Yemen",
+    "iso2": "YE",
+    "poder": 58,
+    "pts": 0,
+    "confederacion": 5
+  },
+  {
+    "paid": 246,
+    "nombre": "Yibuti",
+    "iso2": "DJ",
+    "poder": 51,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 247,
+    "nombre": "Zambia",
+    "iso2": "ZM",
+    "poder": 71,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 248,
+    "nombre": "Zimbabwe",
+    "iso2": "ZW",
+    "poder": 64,
+    "pts": 0,
+    "confederacion": 4
+  },
+  {
+    "paid": 249,
+    "nombre": "Escocia",
+    "iso2": "GB",
+    "poder": 79,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 250,
+    "nombre": "Gales",
+    "iso2": "GB",
+    "poder": 80,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 251,
+    "nombre": "Irlanda del Norte",
+    "iso2": "GB",
+    "poder": 76,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 252,
+    "nombre": "Kosovo",
+    "iso2": "XK",
+    "poder": 66,
+    "pts": 0,
+    "confederacion": 3
+  },
+  {
+    "paid": 253,
+    "nombre": "Nueva Caledonia",
+    "iso2": "NC",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  },
+  {
+    "paid": 254,
+    "nombre": "Fantasy",
+    "iso2": "FN",
+    "poder": 0,
+    "pts": 0,
+    "confederacion": 0
+  }
+]

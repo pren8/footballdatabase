@@ -1,0 +1,14 @@
+[
+  {
+    "jstdid": 1,
+    "jstd_nombre": "Activo"
+  },
+  {
+    "jstdid": 2,
+    "jstd_nombre": "Jubilado"
+  },
+  {
+    "jstdid": 3,
+    "jstd_nombre": "Muerto"
+  }
+]
