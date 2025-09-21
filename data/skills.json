@@ -1,127 +1,127 @@
 [
   {
     "id": 1,
-    "nama": "Short Passing",
-    "deskripsi": null
+    "name": "Short Passing",
+    "description": "Ability to make accurate short passes."
   },
   {
     "id": 2,
-    "nama": "Reflect",
-    "deskripsi": null
+    "name": "Reflexes",
+    "description": "Quick reactions to sudden situations."
   },
   {
     "id": 3,
-    "nama": "Anticipacion",
-    "deskripsi": null
+    "name": "Anticipation",
+    "description": "Reading the game to predict opponents' moves."
   },
   {
     "id": 4,
-    "nama": "Airman",
-    "deskripsi": null
+    "name": "Aerial Ability",
+    "description": "Skill in contests for the ball in the air."
   },
   {
     "id": 5,
-    "nama": "Positioning",
-    "deskripsi": null
+    "name": "Positioning",
+    "description": "Ability to be in the right place at the right time."
   },
   {
     "id": 6,
-    "nama": "Entradas",
-    "deskripsi": null
+    "name": "Tackling",
+    "description": "Ability to win the ball through defensive challenges."
   },
   {
     "id": 7,
-    "nama": "Marcacion",
-    "deskripsi": null
+    "name": "Marking",
+    "description": "Ability to closely defend an opponent."
   },
   {
     "id": 8,
-    "nama": "Recuperador",
-    "deskripsi": null
+    "name": "Ball Recovery",
+    "description": "Skill in regaining possession for the team."
   },
   {
     "id": 9,
-    "nama": "Remate",
-    "deskripsi": null
+    "name": "Finishing",
+    "description": "Ability to score goals effectively."
   },
   {
     "id": 10,
-    "nama": "Cabeceo",
-    "deskripsi": null
+    "name": "Heading",
+    "description": "Skill in using the head to pass or score."
   },
   {
     "id": 11,
-    "nama": "Fuerza",
-    "deskripsi": null
+    "name": "Strength",
+    "description": "Physical power to hold off opponents."
   },
   {
     "id": 12,
-    "nama": "Corpulencia",
-    "deskripsi": null
+    "name": "Stamina/Body Balance",
+    "description": "Balance and robustness in physical duels."
   },
   {
     "id": 13,
-    "nama": "Velocidad",
-    "deskripsi": null
+    "name": "Speed",
+    "description": "Ability to move quickly with or without the ball."
   },
   {
     "id": 14,
-    "nama": "Agilidad",
-    "deskripsi": null
+    "name": "Agility",
+    "description": "Quick and fluid body movement."
   },
   {
     "id": 15,
-    "nama": "Creatividad",
-    "deskripsi": null
+    "name": "Creativity",
+    "description": "Imagination to create chances and unlock defenses."
   },
   {
     "id": 16,
-    "nama": "Pass",
-    "deskripsi": null
+    "name": "Passing",
+    "description": "General ability to distribute the ball."
   },
   {
     "id": 17,
-    "nama": "Resistencia",
-    "deskripsi": null
+    "name": "Endurance",
+    "description": "Ability to maintain performance over time."
   },
   {
     "id": 18,
-    "nama": "Tiros Libres",
-    "deskripsi": null
+    "name": "Free Kicks",
+    "description": "Skill in shooting directly from free kicks."
   },
   {
     "id": 19,
-    "nama": "Regate",
-    "deskripsi": null
+    "name": "Dribbling",
+    "description": "Ability to beat opponents with ball control."
   },
   {
     "id": 20,
-    "nama": "Tecnica",
-    "deskripsi": null
+    "name": "Technique",
+    "description": "Overall technical control of the ball."
   },
   {
     "id": 21,
-    "nama": "Liderazgo",
-    "deskripsi": null
+    "name": "Leadership",
+    "description": "Ability to inspire and guide teammates."
   },
   {
     "id": 22,
-    "nama": "Agresividad",
-    "deskripsi": null
+    "name": "Aggressiveness",
+    "description": "Determination and intensity in challenges."
   },
   {
     "id": 23,
-    "nama": "Intelligence",
-    "deskripsi": null
+    "name": "Intelligence",
+    "description": "Tactical awareness and smart decision-making."
   },
   {
     "id": 24,
-    "nama": "Control",
-    "deskripsi": null
+    "name": "Ball Control",
+    "description": "Ability to control and receive the ball cleanly."
   },
   {
     "id": 25,
-    "nama": "Movilidad",
-    "deskripsi": null
+    "name": "Mobility",
+    "description": "Ability to move into useful spaces effectively."
   }
 ]
