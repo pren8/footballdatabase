@@ -1,3 +1,6 @@
+# CDN File for Access
+> https://cdn.jsdelivr.net/gh/pren8/footballdatabase/data2/datapack-september-2025_25-09-2025_156.json?v=2
+
 # Download
 > https://footlordindustries.altervista.org/download_datapack_v2.php?name=datapack-september-2025&date=24-09-2025&version=167 (GET)
 ---
